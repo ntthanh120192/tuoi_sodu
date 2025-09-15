@@ -5,7 +5,7 @@ import logging
 TOKEN = "606269662:AAETmBf86V6ojtoFsqL9uACmSER1yW10g9M"
 SOURCE_CHAT = -1002934879278
 TARGET_CHAT = -4676555674
-MAX_LEN = 10
+MAX_LEN = 11
 
 logging.basicConfig(level=logging.INFO)
 bot = Bot(token=TOKEN)
