@@ -2,7 +2,7 @@ from telegram import Bot, Update
 from telegram.ext import Updater, MessageHandler, Filters, CallbackContext
 import logging
 
-TOKEN = "606269662:AAETmBf86V6ojtoFsqL9uACmSER1yW10g9M"
+TOKEN = "7958039395:AAFgdC1tdsBDgCRvT-XKLL_DkCcza8Ylok8"
 SOURCE_CHAT = -1002934879278
 TARGET_CHAT = -4676555674
 MAX_LEN = 11
